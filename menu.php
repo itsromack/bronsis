@@ -29,23 +29,23 @@
                 <li><a href="product.html">Food Supplement</a></li>
                 <li><a href="product.html">Health Tips</a></li>
                 <li class="dropdown">
-                  <a href="products" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li class="nav-header">PRODUCTS</li>
-                    <li><a href="all_products.php">All Products</a></li>
-                    <li><a href="product.html">Grapeseed Extract with CoQ10</a></li>
-                    <li><a href="product.html">Alkaline Mineral Capsules</a></li>
-                    <li><a href="product.html">Pure Alkaline Drop (SAM)</a></li>
-                    <li><a href="product.html">Vitamin C</a></li>
-                    <li><a href="product.html">Barley</a></li>
-                    <li><a href="product.html">Premium One</a></li>
-                    <li><a href="product.html">Power Drops</a></li>
-                    <li><a href="product.html">Spiruplus</a></li>
-                    <li><a href="product.html">Pure Natural Raw Honey</a></li>
-                    <li><a href="product.html">Cotton Hankey</a></li>
-                    <li><a href="product.html">Organic Juices</a></li>
-                    <li><a href="product.html">Organic Soap and Shampoo</a></li>
-                    <li><a href="product.html">Organic Fertilizer</a></li>
+                    <li><a href="products.php">All Products</a></li>
+                    <li><a href="product.php?p=grapeseed_coq10">Grapeseed Extract with CoQ10</a></li>
+                    <li><a href="product.php?p=alkaline_capsules">Alkaline Mineral Capsules</a></li>
+                    <li><a href="product.php?p=alkaline_drop">Pure Alkaline Drop (SAM)</a></li>
+                    <li><a href="product.php?p=vit_c">Vitamin C</a></li>
+                    <li><a href="product.php?p=barley">Barley</a></li>
+                    <li><a href="product.php?p=premium_one">Premium One</a></li>
+                    <li><a href="product.php?p=power_drops">Power Drops</a></li>
+                    <li><a href="product.php?p=spiruplus">Spiruplus</a></li>
+                    <li><a href="product.php?p=honey">Pure Natural Raw Honey</a></li>
+                    <li><a href="product.php?p=cotton_hankey">Cotton Hankey</a></li>
+                    <li><a href="product.php?p=juices">Organic Juices</a></li>
+                    <li><a href="product.php?p=soap_shampoo">Organic Soap and Shampoo</a></li>
+                    <li><a href="product.php?p=fetilizer">Organic Fertilizer</a></li>
                   </ul>                  
                 </li>
                 <!--
