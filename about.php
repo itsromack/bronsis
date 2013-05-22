@@ -1,4 +1,5 @@
 <?php
+$page_name = "About LBCA";
 require_once("header.php");
 ?>
     <!-- Start: Main content -->

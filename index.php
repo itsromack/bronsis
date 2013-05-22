@@ -1,5 +1,6 @@
 <?php
-require_once("header.php");
+$page_name = "Home";
+include_once("header.php");
 ?>
     <!-- Start: MAIN CONTENT -->
     <div class="content">
@@ -135,5 +136,5 @@ require_once("header.php");
     </div>
     <!-- End: MAIN CONTENT -->
 <?php
-require_once("footer.php");
+include_once("footer.php");
 ?>

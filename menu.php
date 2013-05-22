@@ -29,9 +29,10 @@
                 <li><a href="product.html">Food Supplement</a></li>
                 <li><a href="product.html">Health Tips</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
+                  <a href="products" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li class="nav-header">PRODUCTS</li>
+                    <li><a href="all_products.php">All Products</a></li>
                     <li><a href="product.html">Grapeseed Extract with CoQ10</a></li>
                     <li><a href="product.html">Alkaline Mineral Capsules</a></li>
                     <li><a href="product.html">Pure Alkaline Drop (SAM)</a></li>

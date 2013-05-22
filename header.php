@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Bootbusiness | Short description about company">
     <meta name="author" content="Your name">
-    <title>BROnSIS | Your High Tech Alternative Wellness Center</title>
+    <title><?php echo (!empty($page_name)) ? $page_name . ' | ' : ''; ?>BROnSIS | Your High Tech Alternative Wellness Center</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap responsive -->
