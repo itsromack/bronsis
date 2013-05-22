@@ -17,11 +17,11 @@
                     <!-- <li><a href="all_products.html">All products</a></li> -->
                     <li class="divider"></li>
                     <li class="nav-header">LEGAL DOCUMENTS</li>
-                    <li><a href="service.html">BFAD</a></li>
-                    <li><a href="service.html">SEC</a></li>
-                    <li><a href="service.html">DOH</a></li>
-                    <li><a href="service.html">DTI</a></li>
-                    <li><a href="service.html">Permit to Operate (LBCA Clinic)</a></li>
+                    <li><a href="legal_documents.php#bfad">BFAD</a></li>
+                    <li><a href="legal_documents.php#sec">SEC</a></li>
+                    <li><a href="legal_documents.php#doh">DOH</a></li>
+                    <li><a href="legal_documents.php#dti">DTI</a></li>
+                    <li><a href="legal_documents.php#permit">Permit to Operate (LBCA Clinic)</a></li>
                     <!-- <li><a href="all_services.html">All services</a></li> -->
                   </ul>                  
                 </li>
