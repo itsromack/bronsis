@@ -26,8 +26,13 @@
                   </ul>                  
                 </li>
                 <li><a href="alternative_medicine.php">Alternative Medicine</a></li>
-                <li><a href="product.html">Food Supplement</a></li>
-                <li><a href="product.html">Health Tips</a></li>
+                <li><a href="food_supplement.php">Food Supplement</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Health Tips<b class="caret"></b></a>
+                  <ul class="dropdown-menu">                    
+                    <li class="nav-header">HEALTH TIPS</li>
+                    <li><a href="health_tips_water.php">About Water</a></li>
+                  </ul>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
                   <ul class="dropdown-menu">
@@ -64,8 +69,8 @@
                 </li>
                 -->
                 <!-- <li><a href="faq.html">FAQ</a></li> -->
-                <li><a href="faq.html">Testimonials</a></li>
-                <li><a href="contact_us.html">Contact us</a></li>
+                <li><a href="testimonials.php">Testimonials</a></li>
+                <li><a href="contact_us.php">Contact us</a></li>
                 <!-- <li><a href="signup.html">Sign up</a></li>
                 <li><a href="signin.html">Sign in</a></li> -->
               </ul>
