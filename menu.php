@@ -25,7 +25,7 @@
                     <!-- <li><a href="all_services.html">All services</a></li> -->
                   </ul>                  
                 </li>
-                <li><a href="product.html">Alternative Medicine</a></li>
+                <li><a href="alternative_medicine.php">Alternative Medicine</a></li>
                 <li><a href="product.html">Food Supplement</a></li>
                 <li><a href="product.html">Health Tips</a></li>
                 <li class="dropdown">
