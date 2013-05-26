@@ -60,7 +60,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.php?p=alkaline_drop" class="btn">Read more</a>
+                      <a href="product.php?p=alkaline_drops" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>

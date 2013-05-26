@@ -18,7 +18,7 @@ include_once("header.php");
                 <div class="thumbnail">
                   <img src="img/placeholder-360x200.jpg" alt="product name">
                   <div class="caption">
-                    <h3>Product name</h3>
+                    <h3>Grape Seed Extract with CoQ10</h3>
                     <p>
                       Few attractive words about your product.Few attractive words about your product.
                       Few attractive words about your product.Few attractive words about your product.
@@ -27,7 +27,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=grapeseed_coq10" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -36,7 +36,7 @@ include_once("header.php");
                 <div class="thumbnail">
                   <img src="img/placeholder-360x200.jpg" alt="product name">
                   <div class="caption">
-                    <h3>Product name</h3>
+                    <h3>Alkaline Mineral Capsules</h3>
                     <p>
                       Few attractive words about your product.Few attractive words about your product.
                       Few attractive words about your product.Few attractive words about your product.
@@ -45,7 +45,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=alkaline_capsules" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -54,7 +54,7 @@ include_once("header.php");
                 <div class="thumbnail">
                   <img src="img/placeholder-360x200.jpg" alt="product name">
                   <div class="caption">
-                    <h3>Product name</h3>
+                    <h3>Pure Alkaline Drops (SAM)</h3>
                     <p>
                       Few attractive words about your product.Few attractive words about your product.
                       Few attractive words about your product.Few attractive words about your product.
@@ -63,7 +63,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=alkaline_drops" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>

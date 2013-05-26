@@ -25,9 +25,8 @@ require_once("header.php");
                 </div>
                 <div class="row">
                     <div class="span10 offset1">
-                        <p>
-                            <?php echo $product['desc']; ?>
-                        </p>
+                        <br />
+                        <?php echo $product['desc']; ?>
                         <div class="span8 offset1">
                             <h3>Fetures of <?php echo $product['name']?></h3>
                             <ul class="features">
