@@ -15,15 +15,19 @@ require_once("header.php");
                     </div>
                 </div>
                 <div class="row">
-                    <div class="span10 offset1">
-                        <h3><a name="testimonial1">Ms. Arlyn Gayon</a></h3>
-                        <p><strong>35 years old</strong>. Brgy. Cupang, Antipolo City.</p>
-
-                        <h3><a name="testimonial2">Pedro Penduko</a></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                        <h3><a name="testimonial3">Maria Clara</a></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <div class="span3 offset1">
+                        <h3><a name="arlyn_gayon">Ms. Arlyn Gayon</a></h3>
+                        <p>
+                            <strong>35 years old</strong>.
+                            <br />Brgy. Cupang, Antipolo City.
+                        </p>
+                    </div>
+                    <div class="span3 offset1">
+                        <h3><a name="vicky_de_lunas">Ms. Vicky de Lunas</a></h3>
+                        <p>
+                            <strong>40 years old</strong>.
+                            <br />Binangonan, Rizal
+                        </p>
                     </div>
                 </div>
             </div>
