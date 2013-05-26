@@ -24,7 +24,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=grapeseed_coq10" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -42,7 +42,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=alkaline_capsules" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -51,7 +51,7 @@ include_once("header.php");
                 <div class="thumbnail">
                   <img src="img/placeholder-260x150.jpg" alt="product name">
                   <div class="caption">
-                    <h3>Pure Alkaline Drop (SAM)</h3>
+                    <h3>Pure Alkaline Drops (SAM)</h3>
                     <p>
                       Few attractive words about your product.Few attractive words about your product.
                       Few attractive words about your product.Few attractive words about your product.
@@ -60,7 +60,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=alkaline_drop" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -78,7 +78,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=vit_c" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -91,7 +91,7 @@ include_once("header.php");
                 <div class="thumbnail">
                   <img src="img/placeholder-260x150.jpg" alt="product name">
                   <div class="caption">
-                    <h3>Barley</h3>
+                    <h3>Green Barley</h3>
                     <p>
                       Few attractive words about your product.Few attractive words about your product.
                       Few attractive words about your product.Few attractive words about your product.
@@ -100,7 +100,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=green_barley" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -118,7 +118,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=premium_one" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -136,7 +136,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=power_drops" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -154,7 +154,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=spiruplus" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -176,7 +176,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=honey" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -194,7 +194,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=cotton_hankey" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -212,7 +212,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=juices" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -230,7 +230,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=soap_shampoo" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>
@@ -252,7 +252,7 @@ include_once("header.php");
                   <div class="widget-footer">
                     <p>
                       <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="product.php?p=fertilizer" class="btn">Read more</a>
                     </p>
                   </div>
                 </div>

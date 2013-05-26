@@ -40,9 +40,9 @@
                     <li><a href="products.php">All Products</a></li>
                     <li><a href="product.php?p=grapeseed_coq10">Grapeseed Extract with CoQ10</a></li>
                     <li><a href="product.php?p=alkaline_capsules">Alkaline Mineral Capsules</a></li>
-                    <li><a href="product.php?p=alkaline_drop">Pure Alkaline Drop (SAM)</a></li>
+                    <li><a href="product.php?p=alkaline_drop">Pure Alkaline Drops (SAM)</a></li>
                     <li><a href="product.php?p=vit_c">Vitamin C</a></li>
-                    <li><a href="product.php?p=barley">Barley</a></li>
+                    <li><a href="product.php?p=green_barley">Barley</a></li>
                     <li><a href="product.php?p=premium_one">Premium One</a></li>
                     <li><a href="product.php?p=power_drops">Power Drops</a></li>
                     <li><a href="product.php?p=spiruplus">Spiruplus</a></li>
@@ -50,7 +50,7 @@
                     <li><a href="product.php?p=cotton_hankey">Cotton Hankey</a></li>
                     <li><a href="product.php?p=juices">Organic Juices</a></li>
                     <li><a href="product.php?p=soap_shampoo">Organic Soap and Shampoo</a></li>
-                    <li><a href="product.php?p=fetilizer">Organic Fertilizer</a></li>
+                    <li><a href="product.php?p=fertilizer">Organic Fertilizer</a></li>
                   </ul>                  
                 </li>
                 <!--
@@ -69,7 +69,27 @@
                 </li>
                 -->
                 <!-- <li><a href="faq.html">FAQ</a></li> -->
-                <li><a href="testimonials.php">Testimonials</a></li>
+                <!-- <li><a href="testimonials.php">Testimonials</a></li> -->
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Testimonials<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li class="nav-header">TESTIMONIALS</li>
+                    <li><a href="testimonials.php">All Testimonials</a></li>
+                    <li><a href="product.php?p=grapeseed_coq10">Grapeseed Extract with CoQ10</a></li>
+                    <li><a href="product.php?p=alkaline_capsules">Alkaline Mineral Capsules</a></li>
+                    <li><a href="product.php?p=alkaline_drop">Pure Alkaline Drop (SAM)</a></li>
+                    <li><a href="product.php?p=vit_c">Vitamin C</a></li>
+                    <li><a href="product.php?p=barley">Barley</a></li>
+                    <li><a href="product.php?p=premium_one">Premium One</a></li>
+                    <li><a href="product.php?p=power_drops">Power Drops</a></li>
+                    <li><a href="product.php?p=spiruplus">Spiruplus</a></li>
+                    <li><a href="product.php?p=honey">Pure Natural Raw Honey</a></li>
+                    <li><a href="product.php?p=cotton_hankey">Cotton Hankey</a></li>
+                    <li><a href="product.php?p=juices">Organic Juices</a></li>
+                    <li><a href="product.php?p=soap_shampoo">Organic Soap and Shampoo</a></li>
+                    <li><a href="product.php?p=fetilizer">Organic Fertilizer</a></li>
+                  </ul>                  
+                </li>
                 <li><a href="contact_us.php">Contact us</a></li>
                 <!-- <li><a href="signup.html">Sign up</a></li>
                 <li><a href="signin.html">Sign in</a></li> -->
