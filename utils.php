@@ -71,9 +71,15 @@ function get_products() {
 function get_testimonies() {
 	$testimonies = array(
 		'arlyn_gayon' => array('name' => 'Ms. Arlyn Gayon',
-							'file' => 'testimony_arlyn_gayon'),
+							'file' => 'testimonial_arlyn_gayon'),
 		'vicky_de_lunas' => array('name' => 'Ms. Vicky de Lunas',
-							'file' => 'testimony_vicky_de_lunas')
+							'file' => 'testimonial_vicky_de_lunas')
 	);
+	return $testimonies;
+}
+
+function load_404() {
+	echo 'Missing Page';
+	exit();
 }
 ?>

@@ -40,7 +40,7 @@
             <nav>
               <ul class="quick-links">
                 <li><a href="faq.html">FAQ</a></li>
-                <li><a href="contact_us.html">Contact us</a></li>            
+                <li><a href="contact_us.php">Contact us</a></li>            
               </ul>
             </nav>
             <h4><i class="icon-legal icon-white"></i> Legal</h4>
@@ -66,14 +66,14 @@
               <a href="mailto:soundar.rathinasamy@gmail.com"><i class="icon-envelope"></i></a>        
             </div>
             <div class="social-icons-row">
-              <i class="icon-phone icon-large phone-number"></i> +919750227877
+              <i class="icon-phone icon-large phone-number"></i> 0999-882-7780
             </div>
           </div>      
           <div class="span3">
             <h4>Get updated by email</h4>
             <form>
               <input type="text" name="email" placeholder="Email address">
-              <input type="submit" class="btn btn-primary" value="Subscribe">
+              <input id="subscribe_button" type="submit" class="btn btn-primary" value="Subscribe">
             </form>
           </div>
         </div>
@@ -81,7 +81,7 @@
       <hr class="footer-divider">
       <div class="container">
         <p>
-          &copy; 2012-3000 Bootbusiness, Inc. All Rights Reserved.
+          &copy; 2013 BROnSIS - All Rights Reserved.
         </p>
       </div>
     </footer>
