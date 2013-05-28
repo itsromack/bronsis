@@ -11,7 +11,7 @@ require_once("header.php");
                         <h1><?php echo $page_name?> <small>Health Tips</small></h1>
                     </div>
                     <div class="span12 center-align">
-                        <img src="http://placehold.it/800x300" class="thumbnail product-snap">            
+                        <img src="img/water_banner1.png" class="thumbnail product-snap">            
                     </div>
                 </div>
                 <div class="row">
