@@ -1,7 +1,11 @@
+<?php
+$page_name = "Events: LBCA in Action";
+require_once("header.php");
+?>
 <div class="content">
     <div class="container">
         <div class="page-header">
-        <h1>The Bootbusiness Events</h1>
+        <h1><?php echo $page_name; ?></h1>
         </div>
         <div class="row bottom-space">
             <div class="span1 offset1">
@@ -63,35 +67,34 @@
                 </p>
             </div>
         </div>
-    
+        <div class="pagination pagination-centered">
+            <ul>
+                <li class="disabled">
+                <a href="#">&laquo;</a>
+                </li>
+                <li class="active">
+                <a href="#">1</a>
+                </li>
+                <li>
+                <a href="#">2</a>
+                </li>
+                <li>
+                <a href="#">3</a>
+                </li>
+                <li>
+                <a href="#">4</a>
+                </li>
+                <li>
+                <a href="#">5</a>
+                </li>
+                <li>
+                <a href="#">6</a>
+                </li>
+                <li>
+                <a href="#">&raquo;</a>
+                </li>
+            </ul>
+        </div>
     </div>
-    <div class="pagination pagination-centered">
-        <ul>
-        <li class="disabled">
-        <a href="#">&laquo;</a>
-        </li>
-        <li class="active">
-        <a href="#">1</a>
-        </li>
-        <li>
-        <a href="#">2</a>
-        </li>
-        <li>
-        <a href="#">3</a>
-        </li>
-        <li>
-        <a href="#">4</a>
-        </li>
-        <li>
-        <a href="#">5</a>
-        </li>
-        <li>
-        <a href="#">6</a>
-        </li>
-        <li>
-        <a href="#">&raquo;</a>
-        </li>
-        </ul>
-    </div>
-<div>
-<!-- End: MAIN CONTENT -->
+</div>
+<?php require_once("footer.php");?>

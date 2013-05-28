@@ -38,7 +38,7 @@
                   <ul class="dropdown-menu">
                     <li class="nav-header">PRODUCTS</li>
                     <li><a href="products.php">All Products</a></li>
-                    <li><a href="product.php?p=grapeseed_coq10">Grapeseed Extract with CoQ10</a></li>
+                    <li><a href="product.php?p=grapeseed_coq10">Grapeseed Extract</a></li>
                     <li><a href="product.php?p=alkaline_capsules">Alkaline Mineral Capsules</a></li>
                     <li><a href="product.php?p=alkaline_drops">Pure Alkaline Drops (SAM)</a></li>
                     <li><a href="product.php?p=vit_c">Vitamin C</a></li>

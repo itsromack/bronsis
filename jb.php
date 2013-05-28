@@ -1,5 +1,5 @@
 <?php
-$page_name = "Food Supplement";
+$page_name = "Ms. Jo Belmonte";
 require_once("header.php");
 ?>
 <div class="content">
