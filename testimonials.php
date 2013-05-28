@@ -16,6 +16,13 @@ require_once("header.php");
                 </div>
                 <div class="row">
                     <div class="span3 offset1">
+                        <h3><a href="testimonial.php?t=dodong">Dodong Fuertez Jr.</a></h3>
+                        <p>
+                            <strong>35 years old</strong>.
+                            <br />Brgy. Cupang, Antipolo City.
+                        </p>
+                    </div>
+                    <div class="span3 offset1">
                         <h3><a href="testimonial.php?t=arlyn_gayon">Ms. Arlyn Gayon</a></h3>
                         <p>
                             <strong>35 years old</strong>.

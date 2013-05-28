@@ -70,6 +70,8 @@ function get_products() {
 
 function get_testimonies() {
 	$testimonies = array(
+		'dodong' => array('name' => 'Dodong Fuertez Jr.',
+							'file' => 'testimonial_dodong'),
 		'arlyn_gayon' => array('name' => 'Ms. Arlyn Gayon',
 							'file' => 'testimonial_arlyn_gayon'),
 		'vicky_de_lunas' => array('name' => 'Ms. Vicky de Lunas',
