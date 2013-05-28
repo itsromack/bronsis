@@ -9,6 +9,9 @@ include_once("header.php");
       ?>
       <!-- Start: PRODUCT LIST -->
         <div class="container">
+          <div class="row-fluid" align="center">
+            <iframe width="800" height="600" src="http://www.youtube.com/embed/_UtEHSBRuk8" frameborder="0" allowfullscreen></iframe>
+          </div>
           <div class="page-header">
             <h2>Our products</h2>
           </div>
