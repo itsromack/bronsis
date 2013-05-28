@@ -23,14 +23,14 @@
                     <li><a href="legal_documents.php#dti">DTI</a></li>
                     <li><a href="legal_documents.php#permit">Permit to Operate (LBCA Clinic)</a></li>
                     <!-- <li><a href="all_services.html">All services</a></li> -->
-                  </ul>                  
+                  </ul>
                 </li>
-                <li><a href="alternative_medicine.php">Alternative Medicine</a></li>
-                <li><a href="food_supplement.php">Food Supplement</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Health Tips<b class="caret"></b></a>
                   <ul class="dropdown-menu">                    
                     <li class="nav-header">HEALTH TIPS</li>
+                    <li><a href="health_tips_alternative_medicine.php">Alternative Medicine</a></li>
+                    <li><a href="health_tips_food_supplement.php">Food Supplement</a></li>
                     <li><a href="health_tips_water.php">About Water</a></li>
                   </ul>
                 <li class="dropdown">
