@@ -9,11 +9,11 @@
                     <li><a href="about.php#mission">Mission</a></li>
                     <li><a href="about.php#goal">Goal</a></li>
                     <li class="nav-header">LBCA PHILIPPINES</li>
-                    <li><a href="product.html">LBCA</a></li>
-                    <li><a href="product.html">Pioneers</a></li>
-                    <li><a href="product.html">Awards and Achievements</a></li>
-                    <li><a href="product.html">Company Affiliations</a></li>
-                    <li><a href="product.html">Message to the Public</a></li>
+                    <li><a href="about.php#lbca">LBCA</a></li>
+                    <li><a href="about.php#pioneers">Pioneers</a></li>
+                    <li><a href="about.php#awards">Awards and Achievements</a></li>
+                    <li><a href="about.php#affiliations">Company Affiliations</a></li>
+                    <li><a href="about.php#message">Message to the Public</a></li>
                     <!-- <li><a href="all_products.html">All products</a></li> -->
                     <li class="divider"></li>
                     <li class="nav-header">LEGAL DOCUMENTS</li>
