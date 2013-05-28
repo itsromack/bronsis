@@ -13,7 +13,7 @@ require_once("header.php");
                 <div class="page-header">
                     <h2>Quick message</h2>
                 </div>
-                <form class="form-contact-us">
+                <form class="form-contact-us" method="POST" action="post_contact_us_message.php">
                     <div class="control-group">
                         <div class="controls">
                             <input type="text" id="inputName" placeholder="Name">
@@ -52,7 +52,7 @@ require_once("header.php");
                     </address>
                     <div class="pull-right">
                         <div class="bottom-space">
-                            <i class="icon-phone icon-large"></i> (123) 123-1234
+                            <i class="icon-phone icon-large"></i> 0999-882-7780
                         </div>
                         <a href="mailto:info@bronsis.ph" class="contact-mail">
                         <i class="icon-envelope icon-large"></i>

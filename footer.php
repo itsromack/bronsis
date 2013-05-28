@@ -58,12 +58,12 @@
             <div class="social-icons-row">
               <a href="#"><i class="icon-twitter"></i></a>
               <a href="#"><i class="icon-facebook"></i></a>
-              <a href="#"><i class="icon-linkedin"></i></a>                                         
+              <!-- <a href="#"><i class="icon-linkedin"></i></a>                                         
             </div>
             <div class="social-icons-row">
               <a href="#"><i class="icon-google-plus"></i></a>              
-              <a href="#"><i class="icon-github"></i></a>
-              <a href="mailto:soundar.rathinasamy@gmail.com"><i class="icon-envelope"></i></a>        
+              <a href="#"><i class="icon-github"></i></a> -->
+              <a href="mailto:info@bronsis.ph"><i class="icon-envelope"></i></a>        
             </div>
             <div class="social-icons-row">
               <i class="icon-phone icon-large phone-number"></i> 0999-882-7780
