@@ -8,7 +8,6 @@
                     <li class="nav-header">ABOUT LBCA</li>
                     <li><a href="about.php#vision">Vision</a></li>
                     <li><a href="about.php#mission">Mission</a></li>
-                    <li><a href="about.php#goal">Goal</a></li>
                     <li class="nav-header">LBCA PHILIPPINES</li>
                     <li><a href="about.php#lbca">LBCA</a></li>
                     <li><a href="about.php#pioneers">Pioneers</a></li>

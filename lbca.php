@@ -11,9 +11,9 @@ require_once("header.php");
                         <h1>LBCA <small>Live Blood Cell Analysis</small></h1>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row-fluid">
                     <div class="span10 offset1">
-                        <div class="span5">
+                        <div class="span7">
                             <h3>What is LBCA?</h3>
                             <p>It is a unique method of viewing live blood cells under a high-powered microscope. One drop of your blood is enough to provide basic information about your present health condition. It is not a diagnostic procedure for a specific disease, but it is a reliable way of examining a person’s health status.</p>
                             
@@ -21,9 +21,23 @@ require_once("header.php");
                             
                             <p>Through this modern technology of viewing live blood cells, we may be able to improve our diet, change our lifestyle and improve our poor eating habits. In that way, we may avoid severe illnesses and degenerative diseases including the high cost of hospitalization and medication.</p>
                         </div>
-                        <div class="span4">
+                        <div class="span5">
                             <img src="img/rbc470.JPG" class="thumbnail product-snap" align="right">                            
                         </div>
+                    </div>
+                </div>
+                <div class="row-fluid">
+                    <div class="span10 offset1">
+                        <p>Live blood cell analysis is carried out by placing a drop of blood from the patient's fingertip on a microscope slide under a glass cover slip to keep it from drying out. The slide is then viewed at high magnification with a dark-field microscope that forwards the image to a television monitor. Both practitioner and patient can then see the blood cells, which appear as dark bodies outlined in white.
+                        </p>
+
+                        <p>The practitioner may take polaroid photographs of the television picture or may videotape the procedure for himself and/or the patient. The results are then used as a basis for prescribing supplements. The procedure is also called live cell analysis, dark-field video analysis, nutritional blood analysis, live blood analysis, and several other names. Most of its users are chiropractors, naturopaths, or bogus "nutrition consultants."</p>
+
+                        <p>According to a flyer from a Los Angeles chiropractor: Live Blood Analysis is a simple procedure for obtaining a quick and accurate assessment of your blood. With only a sample, taken virtually without pain from your finger, [the test] is able to provide a composite of over 25 aspects from your live blood. Darkfield microscopy now allows us to observe multiple vitamin and mineral deficiencies, toxicity, tendencies toward allergic reaction, excess fat circulation, liver weakness and arteriosclerosis.</p>
+
+                        <p>Live blood cell analysis involves a tiny non-invasive pin prick on the finger tip to extract a few drops fo capillary blood. The living blood is placed under a microscope, magnified by 20,000 times and projected onto a video screen for the client and microscopist to view.</p>
+
+                        <p>Live blood cell analysis involves a tiny non- invasive pin prick on the finger tip to extract a few drops of capillary blood. The living blood is placed under a microscope, magnified by 20,000 times and projected onto a video screen for the client and Microscopist to view. Live blood analysis is an increasingly popular alternative way of analyzing blood because a person gets to see how their blood is really behaving inside their veins. The conventional blood test given by the doctor’s surgery or hospital has disadvantages because half an hour after the cells are taken from the body the cells are dead. Therefore they cannot reveal information that live blood analysis can, such as immune system activity, yeast, fungus, mould, cholesterol, hormonal imbalances, sugar intolerances, allergies, mineral deficiencies, mycotoxins, parasites, gastro-intestinal tract dysfunction and much more. The size and shape of the live red blood cells may indicate stress levels, nutritional deficiencies, digestive problems, absorption problems and the damaging effects of free radicals, none of this can be seen in conventional blood tests.</p>
                     </div>
                 </div>
             </div>
