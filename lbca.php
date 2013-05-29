@@ -28,6 +28,8 @@ require_once("header.php");
                 </div>
                 <div class="row-fluid">
                     <div class="span10 offset1">
+
+                        <h3>Further Information About LBCA</h3>
                         <p>Live blood cell analysis is carried out by placing a drop of blood from the patient's fingertip on a microscope slide under a glass cover slip to keep it from drying out. The slide is then viewed at high magnification with a dark-field microscope that forwards the image to a television monitor. Both practitioner and patient can then see the blood cells, which appear as dark bodies outlined in white.
                         </p>
 
@@ -38,6 +40,22 @@ require_once("header.php");
                         <p>Live blood cell analysis involves a tiny non-invasive pin prick on the finger tip to extract a few drops fo capillary blood. The living blood is placed under a microscope, magnified by 20,000 times and projected onto a video screen for the client and microscopist to view.</p>
 
                         <p>Live blood cell analysis involves a tiny non- invasive pin prick on the finger tip to extract a few drops of capillary blood. The living blood is placed under a microscope, magnified by 20,000 times and projected onto a video screen for the client and Microscopist to view. Live blood analysis is an increasingly popular alternative way of analyzing blood because a person gets to see how their blood is really behaving inside their veins. The conventional blood test given by the doctor’s surgery or hospital has disadvantages because half an hour after the cells are taken from the body the cells are dead. Therefore they cannot reveal information that live blood analysis can, such as immune system activity, yeast, fungus, mould, cholesterol, hormonal imbalances, sugar intolerances, allergies, mineral deficiencies, mycotoxins, parasites, gastro-intestinal tract dysfunction and much more. The size and shape of the live red blood cells may indicate stress levels, nutritional deficiencies, digestive problems, absorption problems and the damaging effects of free radicals, none of this can be seen in conventional blood tests.</p>
+                    </div>
+                </div>
+                <div class="row-fluid">
+                    <div class="span10 offset1">
+                        <h3>Where does it come from, where did this technology originate?</h3>
+                        <p>The first microscope was developed in England during the final years of the 16th century. It is likely that the microscope was a result of alterations made to the telescope. It is believed that the microscope was discovered by accidentally inverting a telescope, as indicated by the “account that one of the first microscopes was six feet long and had a one inch barrel with a lens at either end” (Cohen, 1).</p>
+                        <p>The earliest simple microscope was merely a tube with a plate for the object at one end and a lens at the other end that gave a magnification less than ten times the actual size.It had just one lens, and although it had an unappealing look, it was capable of extremely fine work like observing bacteria and single-celled animals.</p>
+                        <p>A couple of years later in 1597, Zaccharias Jansseen and his son, Han Jansseen, while experimenting with several lenses in a tube, discovered that a combination of two lenses in a particular fashion.</p>
+                        <p>One lens was at the eyepiece of the microscope (ocular), and the second lens was near the sample to be studied (objective). This arrangement significantly enlarges the sample under observation. It is believed that their idea on the particular fashion of their lenses was based on the reverse of a telescope, which explains why their instruments were two feet long and extremely heavy.</p>
+                        <p>Nevertheless, they evidently invented the forerunner of the compound microscope, which was later modified in the 17th century by Robert Hooke.</p>
+                    </div>
+                </div>
+                <div class="row-fluid">
+                    <div class="span10 offset1">
+                        <h3>What are the advantages and disadvantages of this system of analyzing one’s health condition?</h3>
+                        <p>The advantage of live blood microscopy is that many disorders can be detected before deficiencies occur. Due to the accuracy of the recommendations, it is amazing how fast the changes impact a person’s health. You no longer have to guess if the changes you make are working; you can see for yourself on video.</p>
                     </div>
                 </div>
             </div>
