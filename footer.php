@@ -58,8 +58,8 @@
           <div class="span3">
             <h4>Get in touch</h4>
             <div class="social-icons-row">
-              <a href="#"><i class="icon-twitter"></i></a>
-              <a href="#"><i class="icon-facebook"></i></a>
+              <!-- <a href="#"><i class="icon-twitter"></i></a> -->
+              <a href="http://www.facebook.com/bronsis.ph" target="_blank"><i class="icon-facebook"></i></a>
               <!-- <a href="#"><i class="icon-linkedin"></i></a>                                         
             </div>
             <div class="social-icons-row">
@@ -68,7 +68,9 @@
               <a href="mailto:info@bronsis.ph"><i class="icon-envelope"></i></a>        
             </div>
             <div class="social-icons-row">
-              <i class="icon-phone icon-large phone-number"></i> 0999-882-7780
+              <i class="icon-phone icon-large"></i> +63 999-882-7780 (Smart)<br />
+              <i class="icon-phone icon-large"></i> +63 933-991-2538 (Sun)<br />
+              <i class="icon-phone icon-large"></i> +63 926-687-1577 (Globe)
             </div>
           </div>      
           <div class="span3">
