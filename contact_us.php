@@ -16,17 +16,17 @@ require_once("header.php");
                 <form class="form-contact-us" method="POST" action="post_contact_us_message.php">
                     <div class="control-group">
                         <div class="controls">
-                            <input type="text" id="inputName" placeholder="Name">
+                            <input type="text" id="inputName" name="sender" placeholder="Name">
                         </div>
                     </div>
                     <div class="control-group">
                         <div class="controls">
-                            <input type="text" id="inputEmail" placeholder="Email">
+                            <input type="text" id="inputEmail" name="email" placeholder="Email">
                         </div>
                     </div>
                     <div class="control-group">
                         <div class="controls">
-                            <textarea id="inputMessage" placeholder="Message"></textarea>
+                            <textarea id="inputMessage" name="message" placeholder="Message"></textarea>
                         </div>
                     </div>
                     <div class="control-group">
