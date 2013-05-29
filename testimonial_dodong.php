@@ -22,15 +22,15 @@
                         </p>
 
                         <div class="thumbnail span3">
-                            <legend>1 Day After</legend>
+                            <strong>30 Minutes After Blood Detox</strong>
                             <a href="img/testimonials/dodong0.jpg"><img src="img/testimonials/dodong0-214x300.jpg"/></a>
                         </div>
                         <div class="thumbnail span3">
-                            <legend>1 Month After</legend>
+                            <strong>1 Month After</strong>
                             <a href="img/testimonials/dodong1.jpg"><img src="img/testimonials/dodong1-174x300.jpg"/></a>
                         </div>
                         <div class="thumbnail span3">
-                            <legend>3 Months After</legend>
+                            <strong>3 Months After</strong>
                             <a href="img/testimonials/dodong2.jpg"><img class="alignnone size-medium wp-image-47" alt="dodong2" src="img/testimonials/dodong2-188x300.jpg"/></a>
                         </div>
 
