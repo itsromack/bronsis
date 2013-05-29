@@ -9,6 +9,7 @@
                     <div class="span7 marketting-info">
                       <h1>LIVE BLOOD CELLS ANALYSIS.</h1>
                       <p><strong>The truth about your health is in your blood.</strong> Examine your blood now and be knowledgable on how can you and your family stay healthy.</p>
+                      <p>It is a unique method of viewing live blood cells under a high-powered microscope. <strong>One drop of your blood is enough to provide basic information about your present health condition.</strong> It is not a diagnostic procedure for a specific disease, but it is a reliable way of examining a person’s health status.</p>
                       <h3>
                         <a href="lbca.php" class="btn btn-large btn-primary">Learn more</a>
                       </h3>
