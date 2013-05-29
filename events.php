@@ -10,7 +10,7 @@ require_once("header.php");
         <div class="row bottom-space">
             <div class="span1 offset1">
                 <div class="circle">
-                    <span class="event-date">Oct<br>10</span>
+                    <span class="event-date">Apr<br>8</span>
                 </div>
             </div>
             <div class="span9">
