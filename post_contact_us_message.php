@@ -9,10 +9,6 @@ $email_content = date("m-d-Y H:i:s") . "
 
 From: {$sender_name} <{$email_from}>
 ";
-
-echo '<pre>';
-echo $email_content;
-echo '</pre>';
-// $result = @mail($email_to, "Contact Us - Message From " . $sender_name, $email_content);
-// header("Location: contact_us.php?s=" . (!$result) ? '0' : '1');
+$result = @mail($email_to, "Contact Us - Message From " . $sender_name, $email_content);
+header("Location: contact_us.php");
 ?>
