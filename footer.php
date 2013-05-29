@@ -41,7 +41,7 @@
             <h4><i class="icon-thumbs-up icon-white"></i> Support</h4>
             <nav>
               <ul class="quick-links">
-                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="faq.php">FAQ</a></li>
                 <li><a href="contact_us.php">Contact us</a></li>            
               </ul>
             </nav>

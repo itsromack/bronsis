@@ -25,8 +25,8 @@ require_once("header.php");
                         <h3>Approximate number of people who were cured by way of alternative medicine and LBCA?</h3>
                         <p>There is no definite number of people who were cured by alternative medicine but there’s a huge paradigm shift to the natural healing methods or the traditional treatment all over the world.</p>
                         
-                        <h3>What are the scientific and biblical basis of alternative medicine?</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <!-- <h3>What are the scientific and biblical basis of alternative medicine?</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
                         
                         <h3>What are the advantages and disadvantage of alternative medicine techniques?</h3>
                         <p>Patients today are seeking new ways to recover from their illnesses, and certainly one of the ways in which they can improve is through alternative medicine.</p>

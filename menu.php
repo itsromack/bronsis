@@ -1,6 +1,7 @@
             <!-- Start: Primary navigation -->
             <div class="nav-collapse collapse">        
               <ul class="nav pull-right">
+                <li><a href="index.php">Home</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">LBCA<b class="caret"></b></a>
                   <ul class="dropdown-menu">                    

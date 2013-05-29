@@ -8,8 +8,8 @@
                   <div class="row-fluid">
                     <div class="span7 marketting-info">
                       <h1 style="color:blue">Welcome to <font color="green">BROnSIS</font>.ph</h1>
-                      <p><strong>Your high-tech alternative wellness center.</strong> We care for your health.</p>
-                      <p>Biological Resource Organization And Social Information System</p>
+                      <h3><font color="blue">B</font>iological <font color="blue">R</font>esource <font color="blue">O</font>rganization A<font color="blue">n</font>d <font color="blue">S</font>ocial <font color="blue">I</font>nformation <font color="blue">S</font>ystem (BROnSIS) Inc.</h3>
+                      <p><strong>Your <font color="blue">high-tech</font> alternative wellness center. <font color="green">We care for your health.</font></strong></p>
                       <h3>
                         <a href="lbca.php" class="btn btn-large btn-primary">Learn more</a>
                       </h3>
@@ -57,7 +57,7 @@
                 <div class="hero-unit">
                   <div class="row-fluid">
                     <div class="span7 marketting-info">
-                      <h1 style="color:blue"><font color="green">LBCA PHILIPPINES</font> COMPANY PRESIDENT</h1>
+                      <h1 style="color:blue"><font color="green">LBCA PHILIPPINES</font> BROnSIS COMPANY PRESIDENT</h1>
                       <p>LBA Philippines started many years ago. <strong>Ms. Jo Belmonte</strong> is one of the Pioneers in the Philippines.</p>
                       <h3 align="right">
                         <a href="jb.php" class="btn btn-large btn-primary">Learn more</a>
