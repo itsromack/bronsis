@@ -7,7 +7,7 @@
                 <div class="hero-unit">
                   <div class="row-fluid">
                     <div class="span7 marketting-info">
-                      <h1>LIVE BLOOD CELLS ANALYSIS.</h1>
+                      <h1><font color="blue">LIVE</font> <font color="red">BLOOD</font> <font color="blue">CELLS ANALYSIS.</font></h1>
                       <p><strong>The truth about your health is in your blood.</strong> Examine your blood now and be knowledgable on how can you and your family stay healthy.</p>
                       <p>It is a unique method of viewing live blood cells under a high-powered microscope. <strong>One drop of your blood is enough to provide basic information about your present health condition.</strong> It is not a diagnostic procedure for a specific disease, but it is a reliable way of examining a person’s health status.</p>
                       <h3>

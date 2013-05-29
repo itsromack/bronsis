@@ -1,5 +1,5 @@
 <?php
-$page_name = "Events: LBCA in Action";
+$page_name = "Events: LBCA in Action 2013";
 require_once("header.php");
 ?>
 <div class="content">

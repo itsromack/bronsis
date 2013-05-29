@@ -8,7 +8,7 @@ require_once("header.php");
             <div class="row bottom-space">
                 <div class="span12">
                     <div class="page-header">
-                        <h1>Ms. Jo Belmonte <small>Company President</small></h1>
+                        <h1>Ms. Jo Belmonte <small>President of the Association</small></h1>
                     </div>
                 </div>
                 <div class="row">
