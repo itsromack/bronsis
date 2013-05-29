@@ -10,9 +10,9 @@
                       <h1 style="color:blue">Welcome to <font color="green">BROnSIS</font>.ph</h1>
                       <h3><font color="blue">B</font>iological <font color="blue">R</font>esource <font color="blue">O</font>rganization A<font color="blue">n</font>d <font color="blue">S</font>ocial <font color="blue">I</font>nformation <font color="blue">S</font>ystem (BROnSIS) Inc.</h3>
                       <p><strong>Your <font color="blue">high-tech</font> alternative wellness center. <font color="green">We care for your health.</font></strong></p>
-                      <h3>
+                      <!-- <h3>
                         <a href="lbca.php" class="btn btn-large btn-primary">Learn more</a>
-                      </h3>
+                      </h3> -->
                     </div>
                     <div class="span5">
                       <img src="img/logo-bronsis-470.png" class="thumbnail">
@@ -28,7 +28,7 @@
                       <p><strong>The truth about your health is in your blood.</strong> Examine your blood now and be knowledgable on how can you and your family stay healthy.</p>
                       <p>It is a unique method of viewing live blood cells under a high-powered microscope. <strong>One drop of your blood is enough to provide basic information about your present health condition.</strong> It is not a diagnostic procedure for a specific disease, but it is a reliable way of examining a person’s health status.</p>
                       <h3>
-                        <a href="lbca.php" class="btn btn-large btn-primary">Learn more</a>
+                        <a href="lbca.php" class="btn btn-large btn-success">Learn more</a>
                       </h3>
                     </div>
                     <div class="span5">
@@ -44,7 +44,7 @@
                       <h1 style="color:blue">LBCA IN <font color="green">ACTION</font></h1>
                       <p><strong>It is our commitment to spread love and make the people know the truth.</strong> We want your family to stay happy and healthy.</p>
                       <h3>
-                        <a href="events.php" class="btn btn-large btn-primary">Learn more</a>
+                        <a href="events.php" class="btn btn-large btn-success">Learn more</a>
                       </h3>    
                     </div>
                     <div class="span5">
@@ -59,8 +59,8 @@
                     <div class="span7 marketting-info">
                       <h1 style="color:blue"><font color="green">LBCA PHILIPPINES</font> BROnSIS COMPANY PRESIDENT</h1>
                       <p>LBA Philippines started many years ago. <strong>Ms. Jo Belmonte</strong> is one of the Pioneers in the Philippines.</p>
-                      <h3 align="right">
-                        <a href="jb.php" class="btn btn-large btn-primary">Learn more</a>
+                      <h3>
+                        <a href="jb.php" class="btn btn-large btn-success">Learn more</a>
                       </h3>
                     </div>
                     <div class="span5">
@@ -75,8 +75,8 @@
                     <div class="span7 marketting-info">
                       <h1 style="color:blue">PATIENTS WHO ARE <font color="green">TREATED AND CURED</font></h1>
                       <p>Read and watch amazing testimonies from patients who undergone live blood cell analysis. Read and hear their inspiring stories on how they felt better and cured.</p>
-                      <h3 align="right">
-                        <a href="testimonials.php" class="btn btn-large btn-primary">Learn more</a>
+                      <h3>
+                        <a href="testimonials.php" class="btn btn-large btn-success">Learn more</a>
                       </h3>
                     </div>
                     <div class="span5">
