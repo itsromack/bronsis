@@ -2,15 +2,44 @@
             <div class="nav-collapse collapse">        
               <ul class="nav pull-right">
                 <li><a href="index.php">Home</a></li>
+                <li><a href="index.php">Forum</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">LBCA Beneficiaries<b class="caret"></b></a>
+                  <ul class="dropdown-menu">                        
+                    <li class="nav-header">LOCATIONS</li>
+                    <li><a href="locations.php">All Locations</a></li>
+                    <li><a href="about.php#vision">Apalit Pampanga</a></li>
+                    <li><a href="about.php#vision">Dagupan City</a></li>
+                    <li><a href="about.php#vision">Angeles City</a></li>
+                    <li><a href="about.php#vision">Cabanatuan City</a></li>
+                    <li><a href="about.php#vision">Balagtas Bulacan</a></li>
+                    <li><a href="about.php#vision">Morong Bataan</a></li>
+                    <li><a href="about.php#vision">San Pedro Laguna</a></li>
+                    <li><a href="about.php#vision">Baguio City</a></li>
+                    <li class="nav-header">Upcoming Locations</li>
+                    <li><a href="about.php#lbca">Sto. Nino, Meycauayan</a></li>
+                    <!-- <li><a href="all_products.html">All products</a></li> -->
+                    <!--
+                        <li class="divider"></li>
+                        <li class="nav-header">LEGAL DOCUMENTS</li>
+                        <li><a href="legal_documents.php#bfad">BFAD</a></li>
+                        <li><a href="legal_documents.php#sec">SEC</a></li>
+                        <li><a href="legal_documents.php#doh">DOH</a></li>
+                        <li><a href="legal_documents.php#dti">DTI</a></li>
+                        <li><a href="legal_documents.php#permit">Permit to Operate (LBCA Clinic)</a></li>
+                    -->
+                    <!-- <li><a href="all_services.html">All services</a></li> -->
+                  </ul>
+                </li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">LBCA<b class="caret"></b></a>
-                  <ul class="dropdown-menu">                    
+                  <ul class="dropdown-menu">                        
                     <li class="nav-header">ABOUT LBCA</li>
                     <li><a href="about.php#vision">Vision</a></li>
                     <li><a href="about.php#mission">Mission</a></li>
                     <li class="nav-header">LBCA PHILIPPINES</li>
                     <li><a href="about.php#lbca">LBCA</a></li>
-                    <li><a href="about.php#pioneers">Pioneers</a></li>
+                    <li><a href="about.php#pioneers">LBCA History</a></li>
                     <li><a href="about.php#awards">Awards and Achievements</a></li>
                     <li><a href="about.php#affiliations">Company Affiliations</a></li>
                     <li><a href="about.php#message">Message to the Public</a></li>
