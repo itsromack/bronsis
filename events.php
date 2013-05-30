@@ -10,11 +10,11 @@ require_once("header.php");
         <div class="row bottom-space">
             <div class="span1 offset1">
                 <div class="circle">
-                    <span class="event-date">Apr<br>8</span>
+                    <span class="event-date">Apr<br>8-9</span>
                 </div>
             </div>
             <div class="span9">
-                <h4><a href="#">Baguio</a></h4>
+                <h4><a href="#">Baguio City</a></h4>
                 <p>
                 Description about your event.Description about your event.Description about your event.
                 Description about your event.Description about your event.Description about your event.
@@ -25,11 +25,11 @@ require_once("header.php");
         <div class="row bottom-space">
             <div class="span1 offset1">
                 <div class="circle">
-                    <span class="event-date">Oct<br>10</span>
+                    <span class="event-date">Apr<br>15-16</span>
                 </div>
             </div>
             <div class="span9">
-                <h4><a href="#">Dagupan</a></h4>
+                <h4><a href="#">Dagupan City</a></h4>
                 <p>
                 Description about your event.Description about your event.Description about your event.
                 Description about your event.Description about your event.Description about your event.
@@ -40,11 +40,11 @@ require_once("header.php");
         <div class="row bottom-space">
             <div class="span1 offset1">
                 <div class="circle">
-                    <span class="event-date">Oct<br>20</span>
+                    <span class="event-date">Apr<br>21-23</span>
                 </div>
             </div>
             <div class="span9">
-                <h4><a href="#">Angeles, Pampanga</a></h4>
+                <h4><a href="#">Angeles City, Pampanga</a></h4>
                 <p>
                 Description about your event.Description about your event.Description about your event.
                 Description about your event.Description about your event.Description about your event.
@@ -55,7 +55,7 @@ require_once("header.php");
         <div class="row bottom-space">
             <div class="span1 offset1">
                 <div class="circle">
-                    <span class="event-date">Nov<br>1</span>
+                    <span class="event-date">Apr<br>28-30</span>
                 </div>
             </div>
             <div class="span9">
