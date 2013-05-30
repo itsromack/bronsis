@@ -14,9 +14,49 @@ require_once("header.php");
                 <div class="row">
                     <div class="span10 offset1">
                         <div class="span5">
-                            <h3>Lorem ipsum</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                            <h3>Lorem ipsum</h3>
+                            <h3 style = "margin-left:-50px;">WORK EXPERIENCE:</h3>
+                            <p><b>Manager / Nutritional Microscopist <small style = "color:gray;">(2005 up to date)</small></b></p>
+                                <p style = "margin-left:50px;">
+                                    <b>JOBARRYIEL TECH. TRADING</b>
+                                    <br />
+                                        543 St. Anthony Ph IB Brgy. Inarawan
+                                    <br />
+                                    Antipolo City
+                                </p>
+                            
+                            <p><b>Self Employed / Owner <small style = "color:gray;">(2004)</small></b></p>
+                            <p style = "margin-left:50px;">
+                                <b>JO & BARRY STORE</b>
+                                <br />
+                                    543 St. Anthony Ph IB Brgy. Inarawan
+                                <br />
+                                Antipolo City
+                            </p>
+                            
+                            <p><b>Store Manager <small style = "color:gray;">(2003-2004)</small></b></p>
+                            <p style = "margin-left:50px;">
+                                <b>GOLDRICH BOTIQUE</b>
+                                <br />
+                                    Sta. Lucia East Grand Mall
+                            </p>
+
+                            <p><b>Private Shoppers <small style = "color:gray;">(1991-1993)</small></b></p>
+                            <p style = "margin-left:50px;">
+                                <b>ABDULAH RASHID TRADING COMPANY</b>
+                                <br />
+                                    Sultanate Oman
+                            </p>
+
+                            <p><b>Cashier <small style = "color:gray;">(1988-1990)</small></b></p>
+                            <p style = "margin-left:50px;">
+                                <b>BAKER'S FAIR & FOODMART INC.</b>
+                                <br />
+                                    Sta. Cruz Manila
+                            </p>
+
+                            <hr />
+                            
+                            <h3 style = "margin-left:-50px;">SPECIAL SKILLS:</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                             <h3>Lorem ipsum</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
