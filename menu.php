@@ -2,7 +2,6 @@
             <div class="nav-collapse collapse">        
               <ul class="nav pull-right">
                 <li><a href="index.php">Home</a></li>
-                <li><a href="index.php">Forum</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">LBCA Beneficiaries<b class="caret"></b></a>
                   <ul class="dropdown-menu">                        
@@ -99,6 +98,7 @@
                 -->
                 <!-- <li><a href="faq.html">FAQ</a></li> -->
                 <li><a href="testimonials.php">Testimonials</a></li>
+                <li><a href="/forum/" target="_blank">Forum</a></li>
                 <!-- <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Testimonials<b class="caret"></b></a>
                   <ul class="dropdown-menu">
